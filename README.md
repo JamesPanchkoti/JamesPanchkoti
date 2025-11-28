@@ -31,16 +31,9 @@
 
 ---
 
-<div align="center">
 
-## 🐍 Contribution Snake
 
-<!-- Replace this with the REAL snake link once your workflow generates the file -->
-<img src="https://raw.githubusercontent.com/JamesPanchkoti/JamesPanchkoti/output/github-contribution-grid-snake-dark.svg" />
 
-</div>
-
----
 
 <div align="center">
 
@@ -49,5 +42,11 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=JamesPanchkoti&style=for-the-badge&color=blue)
 
 </div>
+---
+<div align="center">
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/JamesPanchkoti/JamesPanchkoti/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
